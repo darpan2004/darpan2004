@@ -1,4 +1,4 @@
-<!-- DarpanKhatri/README.md -->
+<!-- darpan2004/README.md -->
 
 <h1 align="center">Hi there 👋 I'm Darpan&nbsp;Khatri</h1>
 
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:darpankhatri2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-darpankhatri2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/darpankhatri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/DarpanKhatri"><img src="https://img.shields.io/badge/GitHub-DarpanKhatri-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/darpan2004"><img src="https://img.shields.io/badge/GitHub-darpan2004-black?style=for-the-badge&logo=github"></a>
   <a href="https://leetcode.com/darpan2004/"><img src="https://img.shields.io/leetcode/stars/darpan2004?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
   <a href="https://codeforces.com/profile/_SpringRoll_alon"><img src="https://img.shields.io/codeforces/rating/_SpringRoll_alon?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarpanKhatri&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarpanKhatri&layout=compact&theme=tokyonight" alt="Top languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=darpan2004&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darpan2004&layout=compact&theme=tokyonight" alt="Top languages" height="170">
 </p>
 
 ---
