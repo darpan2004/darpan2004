@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center">⚡ “Code, learn, iterate — repeat!” ⚡</p>
+<p align="center">⚡ Always learning, always building ⚡</p>
