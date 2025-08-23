@@ -1,18 +1,28 @@
 <!-- darpan2004/README.md -->
 
-<h1 align="center">Hi there 👋 I'm Darpan&nbsp;Khatri</h1>
+<h1 align="center">Hi there 👋 I'm Darpan Khatri</h1>
 
 <p align="center">
-  <strong>Software-Engineering Student&nbsp;| Full-Stack Developer | Competitive Programmer</strong><br>
-  Final-year B.Tech (IT) @ IIITM Gwalior (2022-2026) &nbsp;•&nbsp; CGPA 7.27/10  
+  <strong>Software-Engineering Student | Full-Stack Developer | Competitive Programmer</strong><br>
+  Final-year B.Tech (IT) @ IIITM Gwalior (2022-2026)  
 </p>
 
 <p align="center">
-  <a href="mailto:darpankhatri2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-darpankhatri2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/darpankhatri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/darpan2004"><img src="https://img.shields.io/badge/GitHub-darpan2004-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/darpan2004/"><img src="https://img.shields.io/leetcode/stars/darpan2004?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
-  <a href="https://codeforces.com/profile/_SpringRoll_"><img src="https://img.shields.io/codeforces/rating/_SpringRoll_?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="mailto:darpankhatri2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-darpankhatri2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/darpankhatri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/darpan2004">
+    <img src="https://img.shields.io/badge/GitHub-darpan2004-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://leetcode.com/darpan2004/">
+    <img src="https://img.shields.io/badge/LeetCode-darpan2004-yellow?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://codeforces.com/profile/_SpringRoll_">
+    <img src="https://img.shields.io/badge/Codeforces-_SpringRoll_-blue?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
 </p>
 
 ---
