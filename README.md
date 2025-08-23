@@ -23,6 +23,9 @@
   <a href="https://codeforces.com/profile/_SpringRoll_">
     <img src="https://img.shields.io/badge/Codeforces-_SpringRoll_-blue?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
+  <a href="https://darpankhatri.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-darpankhatri.netlify.app-green?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
 </p>
 
 ---
