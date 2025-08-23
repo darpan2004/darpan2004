@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/darpankhatri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/darpan2004"><img src="https://img.shields.io/badge/GitHub-darpan2004-black?style=for-the-badge&logo=github"></a>
   <a href="https://leetcode.com/darpan2004/"><img src="https://img.shields.io/leetcode/stars/darpan2004?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
-  <a href="https://codeforces.com/profile/_SpringRoll_alon"><img src="https://img.shields.io/codeforces/rating/_SpringRoll_alon?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/_SpringRoll_"><img src="https://img.shields.io/codeforces/rating/_SpringRoll_?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
 ---
