@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I'm Darpan Khatri</h1>
 
 <p align="center">
-  <strong>Software-Engineering Student | Full-Stack Developer | Competitive Programmer</strong><br>
+  <strong>Software Engineer | Backend Development | Competitive Programmer</strong><br>
   Final-year B.Tech (IT) @ IIITM Gwalior (2022-2026)  
 </p>
 
